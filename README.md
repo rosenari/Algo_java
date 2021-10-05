@@ -60,20 +60,43 @@
 |1-2| 종교 | [바로가기](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1136&sca=99&sfl=wr_subject&stx=%EC%A2%85%EA%B5%90 "link") | 정올 |   |
 |1-3| 창용마을무리의개수 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU "link") | SWEA |   |
 
-* 점화식 연습
+* Programmers 고득점 킷
 
 | 구분 | 문제이름 | 링크 | 출처 | 상태 |
 |:--:|---|---|---|---|
-|1-1| 극한의청소작업 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6cgzKOIEDFAWw&categoryId=AWO6cgzKOIEDFAWw&categoryType=CODE "link") | SWEA |  |
-|1-2| 구간합 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGGNB6cnEDFAUo&categoryId=AWXGGNB6cnEDFAUo&categoryType=CODE "link") | SWEA |  |
-
-* 약점 연습
-
-| 구분 | 문제이름 | 링크 | 출처 | 상태 |
-|:--:|---|---|---|---|
-|1-1| 숨바꼭질 | [바로가기](https://www.acmicpc.net/problem/1697 "link") |백준 |   |
-|1-2| 숨바꼭질2 | [바로가기](https://www.acmicpc.net/problem/12851 "link") | 백준 |  |
-|1-3| 숨바꼭질3 | [바로가기](https://www.acmicpc.net/problem/13549 "link") | 백준 |  |
-|1-4| 숨바꼭질4 | [바로가기](https://www.acmicpc.net/problem/13913 "link") | 백준 |  |
-|1-5| 숨바꼭질5 | [바로가기](https://www.acmicpc.net/problem/17071 "link") | 백준 |  |
-|1-6| 숨바꼭질6 | [바로가기](https://www.acmicpc.net/problem/17087 "link") | 백준 |  |
+|1| 완전하지못한선수 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42576 "link") | 프로그래머스 |   |
+|2| 전화번호목록 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42577 "link") | 프로그래머스 |   |
+|3| 위장 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42578 "link") | 프로그래머스 |   |
+|4| 베스트앨범 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42579 "link") | 프로그래머스 |   |
+|5| 기능개발 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42586 "link") | 프로그래머스 |   |
+|6| 프린터 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42587 "link") | 프로그래머스 |   |
+|7| 다리를지나는트럭 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42583 "link") | 프로그래머스 |   |
+|8| 주식가격 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42584 "link") | 프로그래머스 |   |
+|9| 더맵게 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42626 "link") | 프로그래머스 |   |
+|10| 디스크컨트롤러 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42627 "link") | 프로그래머스 |   |
+|11| 이중우선순위큐 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42628 "link") | 프로그래머스 |   |
+|12| K번째수 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42748 "link") | 프로그래머스 |   |
+|13| 가장큰수 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42746 "link") | 프로그래머스 |   |
+|14| H-Index | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42747 "link") | 프로그래머스 |   |
+|15| 모의고사 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42840 "link") | 프로그래머스 |   |
+|16| 소수찾기 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42839 "link") | 프로그래머스 |   |
+|17| 카펫 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42842 "link") | 프로그래머스 |   |
+|18| 체육복 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42862 "link") | 프로그래머스 |   |
+|19| 조이스틱 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42860 "link") | 프로그래머스 |   |
+|20| 큰수만들기 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42883 "link") | 프로그래머스 |   |
+|21| 구명보트 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42885 "link") | 프로그래머스 |   |
+|22| 섬연결하기 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42861 "link") | 프로그래머스 |   |
+|23| 단속카메라 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42884 "link") | 프로그래머스 |   |
+|24| N으로표현 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42895 "link") | 프로그래머스 |   |
+|25| 정수삼각형 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/43105 "link") | 프로그래머스 |   |
+|26| 등굣길 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42898 "link") | 프로그래머스 |   |
+|27| 도둑질 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42897 "link") | 프로그래머스 |   |
+|28| 타겟넘버 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/43165 "link") | 프로그래머스 |   |
+|29| 네트워크 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/43162 "link") | 프로그래머스 |   |
+|30| 단어변환 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/43163 "link") | 프로그래머스 |   |
+|31| 여행경로 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/43164 "link") | 프로그래머스 |   |
+|32| 입국심사 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/43238 "link") | 프로그래머스 |   |
+|33| 징검다리 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/43236 "link") | 프로그래머스 |   |
+|34| 가장먼노드 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/49189 "link") | 프로그래머스 |   |
+|35| 순위 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/49191 "link") | 프로그래머스 |   |
+|36| 방의개수 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/49190 "link") | 프로그래머스 |   |
