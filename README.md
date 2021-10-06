@@ -30,7 +30,7 @@
 |10| 캐슬디펜스 | [바로가기](https://www.acmicpc.net/problem/17135 "link") | 백준 |   |
 
 * 백트래킹
-* 
+
 | 구분 | 문제이름 | 링크 | 출처 | 상태 |
 |:--:|---|---|---|---|
 |1-1| N-QUEEN | [바로가기](https://www.acmicpc.net/problem/9663 "link") | SWEA |   |
