@@ -9,7 +9,7 @@
 |2-3| 치즈도둑 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWrDOdQqRCUDFARG&categoryId=AWrDOdQqRCUDFARG&categoryType=CODE "link") | SWEA | 🏁 |
 |2-4| 치즈(중) | [바로가기](https://www.acmicpc.net/problem/2636 "link") | 백준 | 🏁 |
 |2-5| 파핑파핑 지뢰찾기 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc&categoryId=AV5LwsHaD1MDFAXc&categoryType=CODE "link") | SWEA | 🏁 |
-|2-6| 아기상어 | [바로가기](https://www.acmicpc.net/problem/16236 "link") | 백준 |   |
+|2-6| 아기상어 | [바로가기](https://www.acmicpc.net/problem/16236 "link") | 백준 | 🏁 |
 |3-2| 길찾기 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14geLqABQCFAYD&categoryId=AV14geLqABQCFAYD&categoryType=CODE "link") | SWEA |   |
 |3-3| 보급로 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD&categoryId=AV15QRX6APsCFAYD&categoryType=CODE "link") | SWEA | |
 |4-3| 화섭이의 미생물 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&categoryId=AWksRe4KARQDFAVE&categoryType=CODE "link") | SWEA | |
