@@ -33,9 +33,8 @@
 
 | 구분 | 문제이름 | 링크 | 출처 | 상태 |
 |:--:|---|---|---|---|
-|1-1| N-QUEEN | [바로가기](https://www.acmicpc.net/problem/9663 "link") | SWEA |   |
+|1-1| N-QUEEN | [바로가기](https://www.acmicpc.net/problem/9663 "link") | SWEA | 🏁 |
 |1-2| 빵집 | [바로가기](https://www.acmicpc.net/problem/3109 "link") | SWEA | |
-
 
 
 * Combination
