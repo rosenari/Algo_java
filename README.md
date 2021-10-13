@@ -15,7 +15,7 @@
 |4-3| 화섭이의 미생물 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&categoryId=AWksRe4KARQDFAVE&categoryType=CODE "link") | SWEA | 🏁 |
 |4-4| 수영장 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&categoryId=AV5PpFQaAQMDFAUq&categoryType=CODE "link") | SWEA | 🏁 |
 |4-5| 색종이 | [바로가기](https://www.acmicpc.net/problem/2563 "link") | 백준 | 🏁 |
-|4-6| 색종이 만들기 | [바로가기](https://www.acmicpc.net/problem/2630 "link") | 백준 |   |
+|4-6| 색종이 만들기 | [바로가기](https://www.acmicpc.net/problem/2630 "link") | 백준 | 🏁 |
 |5| DFS & BFS | [바로가기](https://www.acmicpc.net/problem/1260 "link") | 백준 |   |
 |6-1| 영역구하기 | [바로가기](https://www.acmicpc.net/problem/2583 "link") | 백준 |   |
 |6-2| 불 | [바로가기](https://www.acmicpc.net/problem/4179 "link") | 백준 |   |
