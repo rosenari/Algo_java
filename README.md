@@ -108,3 +108,9 @@
 |34| 가장먼노드 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/49189 "link") | 프로그래머스 |   |
 |35| 순위 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/49191 "link") | 프로그래머스 |   |
 |36| 방의개수 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/49190 "link") | 프로그래머스 |   |
+
+* 시뮬레이션
+
+| 구분 | 문제이름 | 링크 | 출처 | 상태 |
+|:--:|---|---|---|---|
+|1| 빗물 | [바로가기](https://www.acmicpc.net/problem/14719 "link") | 백준 | 🏁 |
