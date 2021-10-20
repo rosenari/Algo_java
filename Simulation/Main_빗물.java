@@ -1,9 +1,7 @@
 package Simulation;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 public class Main_빗물 {
     static int[][] map;
@@ -26,9 +24,7 @@ public class Main_빗물 {
             for(int c = 0; c < W; c++){
                 if(map[r][c] == 1){
                     if(temp >= 0){
-                        for(int i = temp + 1; i < c; i++){
-                           answer++; 
-                        }
+                        answer += (c - temp - 1);
                     }
                     temp = c;
                 }
