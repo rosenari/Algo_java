@@ -82,7 +82,7 @@
 |7| 다리를지나는트럭 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42583 "link") | 프로그래머스 | 🏁 |
 |8| 주식가격 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42584 "link") | 프로그래머스 |   |
 |9| 더맵게 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42626 "link") | 프로그래머스 |   |
-|10| 디스크컨트롤러 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42627 "link") | 프로그래머스 |   |
+|10| 디스크컨트롤러 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42627 "link") | 프로그래머스 | 🏁 |
 |11| 이중우선순위큐 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42628 "link") | 프로그래머스 |   |
 |12| K번째수 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42748 "link") | 프로그래머스 |   |
 |13| 가장큰수 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42746 "link") | 프로그래머스 |   |
