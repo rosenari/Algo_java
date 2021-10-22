@@ -86,7 +86,7 @@
 |11| 이중우선순위큐 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42628 "link") | 프로그래머스 | 🏁 |
 |12| K번째수 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42748 "link") | 프로그래머스 | 🏁 |
 |13| 가장큰수 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42746 "link") | 프로그래머스 | 🏁 |
-|14| H-Index | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42747 "link") | 프로그래머스 |   |
+|14| H-Index | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42747 "link") | 프로그래머스 | 🏁 |
 |15| 모의고사 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42840 "link") | 프로그래머스 |   |
 |16| 소수찾기 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42839 "link") | 프로그래머스 |   |
 |17| 카펫 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42842 "link") | 프로그래머스 |   |
