@@ -94,7 +94,7 @@
 |19| 조이스틱 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42860 "link") | 프로그래머스 |   |
 |20| 큰수만들기 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42883 "link") | 프로그래머스 |   |
 |21| 구명보트 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42885 "link") | 프로그래머스 |   |
-|22| 섬연결하기 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42861 "link") | 프로그래머스 |   |
+|22| 섬연결하기 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42861 "link") | 프로그래머스 | 🏁 |
 |23| 단속카메라 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42884 "link") | 프로그래머스 |   |
 |24| N으로표현 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42895 "link") | 프로그래머스 |   |
 |25| 정수삼각형 | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/43105 "link") | 프로그래머스 |   |
