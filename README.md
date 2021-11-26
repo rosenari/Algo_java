@@ -18,7 +18,7 @@
 |4-6| 색종이 만들기 | [바로가기](https://www.acmicpc.net/problem/2630 "link") | 백준 | 🏁 |
 |5| DFS & BFS | [바로가기](https://www.acmicpc.net/problem/1260 "link") | 백준 | 🏁 |
 |6-1| 영역구하기 | [바로가기](https://www.acmicpc.net/problem/2583 "link") | 백준 | 🏁 |
-|6-2| 불 | [바로가기](https://www.acmicpc.net/problem/4179 "link") | 백준 |   |
+|6-2| 불 | [바로가기](https://www.acmicpc.net/problem/4179 "link") | 백준 | 🏁 |
 |6-2| 화염에서탈출 | [바로가기](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=362&sca=99&sfl=wr_subject&stx=%ED%99%94%EC%97%BC%EC%97%90%EC%84%9C "link") | 정올 | |
 |7| 빵집 | [바로가기](https://www.acmicpc.net/problem/3109 "link") | 백준 |   |
 |8-1| 섬의개수 | [바로가기](https://www.acmicpc.net/problem/4963 "link") | 백준 |   |
