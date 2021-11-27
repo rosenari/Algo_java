@@ -25,7 +25,7 @@
 |8-2| 공주님을구해라 | [바로가기](https://www.acmicpc.net/problem/17836 "link") | 백준 | 🏁 |
 |8-3| 달이차오른다가자 | [바로가기](https://www.acmicpc.net/problem/1194 "link") | 백준 | 🏁 |
 |9-1| 토마토 | [바로가기](https://www.acmicpc.net/problem/7576 "link") | 백준 | 🏁 |
-|9-2| 숨바꼭질 | [바로가기](https://www.acmicpc.net/problem/1697 "link") | 백준 |   |
+|9-2| 숨바꼭질 | [바로가기](https://www.acmicpc.net/problem/1697 "link") | 백준 | 🏁 |
 |9-3| 토마토2 | [바로가기](https://www.acmicpc.net/problem/7569 "link") | 백준 | |
 |10| 캐슬디펜스 | [바로가기](https://www.acmicpc.net/problem/17135 "link") | 백준 |   |
 |11| 압축 | [바로가기](https://www.acmicpc.net/problem/1662 "link") | 백준 | 🏁 |
