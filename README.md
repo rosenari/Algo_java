@@ -43,8 +43,9 @@
 |:--:|---|---|---|---|
 |1-1| 하노이탑 | [바로가기](https://www.acmicpc.net/problem/1914 "link") | 백준 | 🏁 |
 |1-2| 하노이탑2 | [바로가기](https://www.acmicpc.net/problem/2270 "link") | 백준 |  |
-|1-3| 극한의청소작업 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6cgzKOIEDFAWw&categoryId=AWO6cgzKOIEDFAWw&categoryType=CODE "link") | SWEA |  |
-|1-4| 구간합 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGGNB6cnEDFAUo&categoryId=AWXGGNB6cnEDFAUo&categoryType=CODE "link") | SWEA |  |
+|1-3| Z | [바로가기](https://www.acmicpc.net/problem/2270 "link") | 백준 | 🏁 |
+|1-4| 극한의청소작업 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6cgzKOIEDFAWw&categoryId=AWO6cgzKOIEDFAWw&categoryType=CODE "link") | SWEA |  |
+|1-5| 구간합 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGGNB6cnEDFAUo&categoryId=AWXGGNB6cnEDFAUo&categoryType=CODE "link") | SWEA |  |
 
 * Combination
 
