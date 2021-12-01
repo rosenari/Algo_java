@@ -64,6 +64,12 @@
 |2| 최대상금 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE "link") | SWEA |  |
 |3| 베이비진 | | SWEA |  |
 
+* Two Pointer
+
+| 구분 | 문제이름 | 링크 | 출처 | 상태 |
+|:--:|---|---|---|---|
+|1| 회전초밥 | [바로가기](https://www.acmicpc.net/problem/15961 "link") | 백준 | 🏁 |
+
 * 2D ARRAY
 
 | 구분 | 문제이름 | 링크 | 출처 | 상태 |
