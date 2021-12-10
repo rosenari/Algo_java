@@ -85,6 +85,12 @@
 |1-2| 종교 | [바로가기](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1136&sca=99&sfl=wr_subject&stx=%EC%A2%85%EA%B5%90 "link") | 정올 |   |
 |1-3| 창용마을무리의개수 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU "link") | SWEA |   |
 
+* Stack
+
+| 구분 | 문제이름 | 링크 | 출처 | 상태 |
+|:--:|---|---|---|---|
+|1-1| 괄호제거 | [바로가기](https://www.acmicpc.net/problem/2800 "link") | 백준 | 🏁 |
+
 * Programmers 고득점 킷
 
 | 구분 | 문제이름 | 링크 | 출처 | 상태 |
