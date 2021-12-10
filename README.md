@@ -90,6 +90,7 @@
 | 구분 | 문제이름 | 링크 | 출처 | 상태 |
 |:--:|---|---|---|---|
 |1-1| 괄호제거 | [바로가기](https://www.acmicpc.net/problem/2800 "link") | 백준 | 🏁 |
+|1-2| 후위 표기식 | [바로가기](https://www.acmicpc.net/problem/1918 "link") | 백준 | 🏁 |
 
 * Programmers 고득점 킷
 
