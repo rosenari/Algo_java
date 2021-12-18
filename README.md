@@ -99,6 +99,12 @@
 |1-1| 이중우선순위큐 | [바로가기](https://www.acmicpc.net/problem/7662 "link") | 백준 | 🏁 |
 |1-2| N번째 큰 수 | [바로가기](https://www.acmicpc.net/problem/2075 "link") | 백준 | 🏁 |
 
+* HashMap
+
+| 구분 | 문제이름 | 링크 | 출처 | 상태 |
+|:--:|---|---|---|---|
+|1-1| 생태학 | [바로가기](https://www.acmicpc.net/problem/4358 "link") | 백준 | 🏁 |
+
 * Programmers 고득점 킷
 
 | 구분 | 문제이름 | 링크 | 출처 | 상태 |
